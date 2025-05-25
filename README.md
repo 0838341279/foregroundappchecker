@@ -1,4 +1,4 @@
-# Foreground App Checker for android
+# Foreground App Checker for android061-185-2503
 
 This library tries to provide an easy way to get the foreground application package name. It uses different techniques, adequate to the device's android version.
 
